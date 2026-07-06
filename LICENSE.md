@@ -1,4 +1,4 @@
-# 
+# Open Source MEV sniper bot scripts pour Mac OS | Élite MEV sniper bot scripts pour PC Windows. Avec détection de la taxe d'achat et analyse des données historiques — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
